@@ -1,7 +1,7 @@
 import pygame
-#from pygame.locals import *
-#import sys
-#import os
+from pygame.locals import *
+import sys
+import os
 import random
 import math
 from pygame import mixer
